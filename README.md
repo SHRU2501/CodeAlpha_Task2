@@ -59,7 +59,7 @@ python3 portfolio_tracker.py
 ├── assets/
 │   └── sample_portfolio.csv
 ├── README.md
-
+licesnce MIT
 
 
  
